@@ -8,7 +8,7 @@ var zahirr = db.get("zahirr");
 	console.log('')
 }
 
-var creatorList = ['@serbanewbie20','@newbiegans','@newbie_ajalah','@serbanjay20', '@serbaganssss','@serbaganteng','@newbiegantengg', '@exzuka'];
+var creatorList = ['@serbanewbie20','@serbanewbie20','@serbanewbie20','@serbanewbie20', '@serbanewbie20','@serbanewbie20','@serbanewbie20', '@serbanewbie20'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
 
@@ -153,7 +153,7 @@ var len = 15
             randomlagi += arr[Math.floor(Math.random() * arr.length)];
         }
 
-        var randomTextNumber = random+randomlagi+'---------ZahirGanteng'+'ZHIRRR--GANS';
+        var randomTextNumber = random+randomlagi+'---------ExzuKAGanteng'+'Rmdhn-20--GANS';
         
  
  async function cekApiKey(api) {
